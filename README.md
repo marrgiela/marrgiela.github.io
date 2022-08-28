@@ -13,8 +13,6 @@ My personal website
 - Quick to use 
 - Easy contact with me
 
-If you have any feedback, please reach out to us at fake@fake.com
-
 ## License  
 
 [MIT](https://choosealicense.com/licenses/mit/)
